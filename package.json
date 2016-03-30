@@ -1,0 +1,8 @@
+{
+  "name": "client-app",
+  "cozy-type": "static",
+  "cozy-displayName": "Client App",
+  "version": "1.0.0",
+  "description": "Your app's description",
+  "icon-path": "main_icon.svg"
+}
